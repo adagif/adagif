@@ -1,6 +1,6 @@
 # Hey Guys 🌼🌙 🌱
 
-💻My name is Maria Eduarda, I'm Brazilian 🇧🇷, student of Computer Science and computer technician💜.
+💻My name is Maria Eduarda, I'm Brazilian 🇧🇷, student of Computer Science and Computer Technician💜.
 
 ✨I worked voluntarily on the Computação Online (ComOn) @ comon.ufca project that produces audiovisual media, promoting the dissemination of content related to information technology.
 
