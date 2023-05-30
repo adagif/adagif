@@ -1,10 +1,7 @@
 # Hey Guys 🌼🌙 🌱
 
-💻My name is Maria Eduarda, I'm Brazilian 🇧🇷, student of Computer Science and Computer Technician💜.
+Olá, tudo bom?
+me chamo Maria Eduarda (Madu), sou aluna do curso Bacharel em Ciência da Computação e técnica em informática. Sigo em busca da minha melhor versão. Fique a vontade para olhar meus projetos.
 
-✨I worked voluntarily on the Computação Online (ComOn) @ comon.ufca project that produces audiovisual media, promoting the dissemination of content related to information technology.
-
-🌼🦋Researcher and collaborator of the research group Computation and Design (CoDe) UFCA / CNPq.
-
-🌷 I'm currently interested in the area of Web Development, Human-computer interaction (HCI) and UX / UI. I like to participate, organize and put into practice new ideas. Regular reader and looking for my best version.
-🌙🦋🔮
+Com os melhores cumprimentos,
+Madu.
