@@ -6,9 +6,9 @@ me chamo Maria Eduarda (Madu), sou aluna do curso Bacharel em Ciência da Comput
 Com os melhores cumprimentos,
 Madu.
 
-<div>
+ <a href="https://github.com/adagif">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adagif&layout=compact&langs_count=16&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adagif&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
