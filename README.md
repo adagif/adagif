@@ -17,7 +17,7 @@ Madu.
 
   <img align="center" alt="ada-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="ada-gif" src="https://discord.com/channels/@me/990348216534978600/1114201036316475494"
+  <img align="right" alt="ada-gif" src="https://media.discordapp.net/attachments/990348216534978600/1114201036136128562/fofi.gif?width=421&height=421"
 
   
   ##
