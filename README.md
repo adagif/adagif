@@ -8,7 +8,7 @@ Madu.
 
  <a href="https://github.com/adagif">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adagif&show_icons=true&theme=radical)
 </div>
 
 <div style="display: inline_block"><br>
