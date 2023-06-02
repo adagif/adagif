@@ -17,16 +17,16 @@ Madu.
 
   <img align="center" alt="ada-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="maria-gif" src="fofi.gif">
-
+  <img align="right" alt="ada-gif" src="https://discord.com/channels/@me/990348216534978600/1114201036316475494"
+</div>-->
   
   ##
  
 <div> 
 
 
-  <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/maria-eduarda-madu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/adagif/adagif/blob/output/github-contribution-grid-snake.svg)
+  ,<!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
  
 </div>
