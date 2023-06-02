@@ -7,6 +7,8 @@ Com os melhores cumprimentos,
 Madu.
 
 <div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adagif&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adagif&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
@@ -17,7 +19,7 @@ Madu.
 
   <img align="center" alt="ada-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="ada-gif" src="https://media.discordapp.net/attachments/990348216534978600/1114201036136128562/fofi.gif?width=421&height=421">
+  <img align="right" alt="ada-gif" src="https://media.discordapp.net/attachments/990348216534978600/1114205367698731108/fofito.gif">
 
   
   ##
