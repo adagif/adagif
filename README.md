@@ -17,7 +17,7 @@ Madu.
 
   <img align="center" alt="ada-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="ada-gif" src="https://drive.google.com/file/d/1ONoX_xvbReHWInU0qUlrM31LwXPwd_Fn/view?usp=drive_link"
+  <img align="right" alt="maria-gif" src="https://drive.google.com/file/d/1ONoX_xvbReHWInU0qUlrM31LwXPwd_Fn/view?usp=drive_link">
 
   
   ##
